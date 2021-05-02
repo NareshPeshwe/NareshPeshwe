@@ -1,6 +1,6 @@
 👋 Hi, I’m Naresh Peshwe
 
-It's all about the experiments ! 😊
+It's all about the experiments !
 
 
 <!---
